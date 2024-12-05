@@ -1,2 +1,2 @@
 # NetWork-Hacker-Simulator-DEMO-game
-JBJ
+Nejprve si stáhněte a nainstalujte https://python.org/ 
